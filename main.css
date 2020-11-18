@@ -1,0 +1,18 @@
+* {
+	margin:20px;
+}
+
+.container-fluid {
+    outline: 5px solid orange;
+    position: relative;
+    width: 600px;
+    text-align: center;
+    background-color: #b3b3b3;
+}
+
+.container-fluid .drum-pad {
+    width: 132px;
+    height: 72px;
+    display: inline-block;
+    margin: 15px;
+}
